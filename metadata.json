@@ -1,0 +1,6 @@
+{
+  "name": "Scamadvisor - Counter-Fraud & Threat Intelligence Engine",
+  "description": "AI-powered cyber fraud counteraction platform to detect scams, analyze files and links, inspect YahooBoy syndicates, and protect digital citizens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
